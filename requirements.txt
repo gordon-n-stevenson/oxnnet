@@ -1,0 +1,5 @@
+tflearn>0.3
+tensorflow>1.5
+pandas
+nibabel
+skimage
